@@ -1,6 +1,6 @@
 # Projeto de RegEx desenvolvido em C#
 
-**1 -** Este projeto contém uma classe em C# que possui 3 métodos:
+**1 -** Este projeto contém uma classe em C# que possui 2 métodos:
 
 * O primeiro método extrai a cadeia de caracteres a partir de uma posição prevista no texto
 
